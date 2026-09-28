@@ -1,0 +1,97 @@
+.extremos {
+    background-color: rgb(47, 62, 79);
+}
+
+.inex {
+    color: white;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+header ul {
+    list-style-type: none;
+    padding: 20px;
+}
+
+header ul li {
+    padding: 10px;
+    display: inline;
+}
+
+footer {
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+
+footer ul li {
+    display: inline;
+}
+
+main {
+    margin: 0 15%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#Sobre img {
+    display: block;
+    margin: auto;
+    border: solid;
+    border-color: rgb(92, 175, 106);
+    border-radius: 50%;
+}
+
+h4 {
+    text-align: justify;
+    font-weight: normal;
+}
+
+a:hover {
+    color: rgb(74 187 156);
+    text-decoration: underline;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#cab {
+    background-color: rgb(61, 129, 183);
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    text-align: justify;
+    border: solid 1px;
+    border-color: gray;
+}
+
+h2 {
+    color: rgb(74 187 156);
+    border-bottom: solid 1px;
+}
+
+#Glo ul {
+    list-style-type: none;
+}
+
+footer p {
+    padding-top: 20px;
+}
